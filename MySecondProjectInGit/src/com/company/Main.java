@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("My second project, uploaded in GitHub");
+        System.out.println("My second project, uploaded in GitHub. Cloned, modified, saved");
     }
 }
